@@ -1,7 +1,7 @@
 # Image Captioning
 
 ## Description
-The project is built to generate a caption for each image in the dataset which depicts the motion of each image. This is comprehensively based on **Deep Learning**, specially *Computer Vision* and *Natural Language Processing*.
+The project is built to generate a caption for each image in the dataset which depicts the motion of each image. This is comprehensively based on **Deep Learning**, especially *Computer Vision* and *Natural Language Processing*.
 
 *Input*: A image.
 
