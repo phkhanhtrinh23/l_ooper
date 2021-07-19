@@ -1,6 +1,6 @@
 # Image Captioning
 
-![Visualization](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![Visualization](https://github.com/phkhanhtrinh23/image_captioning/blob/master/merge.png)
 
 ## Description
 The project is built to generate a caption for each image in the dataset which depicts the motion of each image. This is comprehensively based on **Deep Learning**, especially *Computer Vision* and *Natural Language Processing*.
